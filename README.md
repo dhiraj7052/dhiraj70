@@ -1,4 +1,4 @@
-# dhiraj70# Automated Web Scanner
+# Automated Web Scanner
 ### Security Headers and CORS Configuration Review
 
 A lightweight Python utility for checking selected HTTP security headers and observing basic Cross-Origin Resource Sharing (CORS) response behavior on websites you own or are explicitly authorized to assess.
